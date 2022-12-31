@@ -4,6 +4,9 @@
 **hyeonu0303/hyeonu0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<a>
+<img src="https://img.shields.io/badge/javascript-F7DF1E? stylE=for-the-badge&logo=javascript&logoColor=black">
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
