@@ -14,5 +14,5 @@
   <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=#4479A1"/><br/>
  
 </div>
- ![Hyeonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonu0303&show_icons=true&theme=tokyonight)
+![Hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonu0303&show_icons=true&theme=radical)
 
