@@ -1,6 +1,6 @@
 ### HELLO 👋
 <h3>My tech stack </h3>
-<link rel="stylesheet" type="text/css" href="./readme.css">
+<link rel="stylesheet" type="text/css" href="/readme.css">
 <div class="container">
  <div class="front">
     <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=#E34F26"/>
