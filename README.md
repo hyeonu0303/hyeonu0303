@@ -1,7 +1,7 @@
 ### HELLO 👋
 <h3>My tech stack </h3>
 <link rel="stylesheet" type="text/css" href="./readme.css">
-<div>
+<div class="container">
  <div class="front">
     <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=#E34F26"/>
   <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=#1572B6"/>
