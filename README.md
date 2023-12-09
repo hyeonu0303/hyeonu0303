@@ -1,5 +1,5 @@
 <div align="center">
- <h3>My tech stack </h3>
+ <h3>My tech stack 😊</h3>
  <p><strong><em>Front-end</em></strong></p>
   <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=#E34F26"/>
   <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=blue"/>
