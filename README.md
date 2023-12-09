@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=#47A248"/>
   <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=#4479A1"/><br/>
 
-  ![Hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonu0303&show_icons=true&theme=radical)
+  ![Hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonu0303&show_icons=true&theme=material-palenight)
  
 </div>
 
