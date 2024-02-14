@@ -10,18 +10,26 @@
  <img src="https://img.shields.io/badge/StyledComponents-black?style=flat&logo=styledcomponents&logoColor=#DB7093"/>
  <img src="https://img.shields.io/badge/BootStrap-black?style=flat&logo=bootstrap&logoColor=#7952B3"/>
   <img src="https://img.shields.io/badge/ChakraUI-black?style=flat&logo=chakraui&logoColor=#319795"/>
+ <img src="https://img.shields.io/badge/Tawilwind CSS-black?style=flat&logo=TailwindCSS&logoColor=#06B6D4"/>
  <p><strong><em>Framework</em></p></strong>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=#000000"/>
   <img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB"/>
   <img src="https://img.shields.io/badge/Vue.js-black?style=flat&logo=vuedotjs&logoColor=#4FC08D"/>
   <p><strong><em>Back-end</em></strong></p>
   <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs&logoColor=#339933"/>
+  <img src="https://img.shields.io/badge/Fastify-black?style=flat&logo=Fastify&logoColor=#000000"/>
  <p><strong><em>Database</em></strong></p>
   <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=#47A248"/>
   <img src="https://img.shields.io/badge/Mongoose-black?style=flat&logo=mongoose&logoColor=red"/>
   <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=#4479A1"/>
  <p><strong><em>Libraray</em></strong></p>
   <img src="https://img.shields.io/badge/Redux-black?style=flat&logo=redux&logoColor=purple"/> 
+ <p><strong><em>Package Manager</em></strong></p>
+  <img src="https://img.shields.io/badge/npm-black?style=flat&logo=npm&logoColor=#CB3837"/>
+  <img src="https://img.shields.io/badge/pnpm-black?style=flat&logo=pnpm&logoColor=#F69220"/>
+  <p><strong><em>Build Tools</em></strong></p>
+  <img src="https://img.shields.io/badge/Vite-black?style=flat&logo=vite&logoColor=#646CFF"/>
+  <img src="https://img.shields.io/badge/Webpack-black?style=flat&logo=Webpack&logoColor=#8DD6F9"/>
 </div>
 
 ---
