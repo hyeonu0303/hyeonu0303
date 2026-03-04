@@ -1,6 +1,6 @@
-<div align="center">
- 
- ![Hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonu0303&show_icons=true&theme=material-palenight)
+<div align="start">
+ <h2>안녕하세요 박현우 입니다.</h2>
+ <p>서비스에 필요한 모든 기술에 관심을 갖고 배우는 것을 즐기며, 비즈니스에 핵심적인 기술을 파악하고, 문제 해결을 통해 이를 구현하는 과정에서 성장하고 있습니다.\n이러한 개인의 성장이 협업과 비즈니스에 높은 가치를 창출한다고 믿기에, 꾸준한 자기 발전을 위해 노력하고 있습니다.</p>
  
 </div>
 
